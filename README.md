@@ -84,7 +84,7 @@ The trained model and vectorizer are stored using Pickle and loaded into the Str
 ### Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/SoniJain03/Email-Spam-Classifier.git
 ```
 
 ### Navigate to the project folder
